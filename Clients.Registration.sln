@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rs.Nets.Blazor.Clients", "Src\Blazor.Clients\Rs.Nets.Blazor.Clients.csproj", "{F16BA2AC-C045-4318-AEB6-F3D7AD943F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rs.Nets.Std.Clients", "Src\Rs.Nets.Std.Clients\Rs.Nets.Std.Clients.csproj", "{41BAC6C4-8BE9-4CE1-B8DA-2B23E3243CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16BA2AC-C045-4318-AEB6-F3D7AD943F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16BA2AC-C045-4318-AEB6-F3D7AD943F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16BA2AC-C045-4318-AEB6-F3D7AD943F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16BA2AC-C045-4318-AEB6-F3D7AD943F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BAC6C4-8BE9-4CE1-B8DA-2B23E3243CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BAC6C4-8BE9-4CE1-B8DA-2B23E3243CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BAC6C4-8BE9-4CE1-B8DA-2B23E3243CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BAC6C4-8BE9-4CE1-B8DA-2B23E3243CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D27F4D-AF08-4410-B3DE-841CABD3CAF0}
+	EndGlobalSection
+EndGlobal
